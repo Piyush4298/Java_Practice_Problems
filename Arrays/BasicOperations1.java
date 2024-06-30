@@ -11,7 +11,7 @@ import java.util.Scanner;
  *  Output: arr = [6, 1, 2, 3, 4]
  * 
  *  Input : arr = [1, 2, 3, 4] , x = 7, pos = 3
- *  Output: arr = [1, 2, 7, 3, 4] [1 2 3 4 0] -> [1 2 3 4 4] -> [1 2 3 3 4]
+ *  Output: arr = [1, 2, 7, 3, 4]
  */
 public class BasicOperations1 {
 
